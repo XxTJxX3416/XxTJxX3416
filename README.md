@@ -1,29 +1,55 @@
-# Hi, I'm Timmy — a Cybersecurity Analyst in Training
+# Hi, I'm Timmy Harris Jr.
 
-I am building hands-on defensive cybersecurity and networking skills through structured learning, practical labs, and documented investigations.
+## Founder of Harris Dynamics | Robotics Builder | Cybersecurity Analyst in Training
 
-## Current Focus
+I am building **Harris Dynamics**: an independent invention lab focused on character-driven robots, personal manufacturing, embedded electronics, repairable products and practical technology for everyday life.
 
+My background is in construction, skilled trades, equipment repair and hands-on problem solving. I am now expanding that experience through robotics, electronics, networking and cybersecurity.
+
+## Harris Dynamics
+
+The main Harris Dynamics project is the **BOTs universe**—a connected world of physical robot characters designed to move, interact, learn, train and compete through safe, repairable hardware.
+
+Current development includes:
+
+- The Ninja Bot Battle Ready Pair
+- A shared smart-armor and accessory ecosystem
+- Modular battery, scanner and repair standards
+- B.O.X.-1, an ESP32-based learning robot
+- Interactive products such as Graveyard Quest
+- Future home, inspection, mapping and support robots
+
+The engineering method is:
+
+> idea → requirements → design → prototype → test → revision → documented evidence
+
+Concept images show design intent. Unbuilt or unmeasured systems remain labeled as concepts or targets until physical testing is complete.
+
+## Current Mission
+
+I am working toward a personal-manufacturing lab that can turn documented robot designs into tested physical prototypes. The first manufacturing proof will focus on the Ninja Bot platform and a universal removable-armor interface.
+
+In September 2026, the Harris Dynamics lab proposal was submitted to Bambu Lab's **Let's Make It Fund** program.
+
+## Cybersecurity Development
+
+I am also building defensive cybersecurity and networking skills through structured courses, Cisco Packet Tracer labs, security-event investigations and clear technical reporting.
+
+- [Cybersecurity Portfolio](https://github.com/XxTJxX3416/cybersecurity-portfolio)
 - Cisco networking fundamentals
-- Cisco Packet Tracer labs
-- Security-event investigation
-- Incident documentation
+- Incident investigation and documentation
 - Windows security fundamentals
-- Building an evidence-based employment portfolio
+- Evidence-based employment portfolio development
 
-## Featured Work
+## What I Value
 
-- [Cybersecurity Portfolio](https://github.com/XxTJxX3416/cybersecurity-portfolio) — sanitized learning evidence, investigation reports, and lab templates.
-- **Suspicious Sign-In Investigation:** A fictional investigation of repeated failed sign-ins followed by a successful login, including evidence collection, competing explanations, risk assessment, and recommended response.
-- **Cybersecurity Learning Journal:** A dated record of lessons, corrections, and practical growth.
-- **Packet Tracer Labs:** Network designs, testing evidence, troubleshooting notes, and conclusions will be added as each lab is completed.
+- Honest documentation
+- Repairable and serviceable products
+- Safe testing before performance claims
+- Learning through real projects
+- Privacy and cybersecurity by design
+- Technology that improves entertainment, safety and everyday life
 
-## Current Training
+## Public Repository Policy
 
-Cisco Skills for All — Cybersecurity and Networking — In Progress
-
-## Goal
-
-My goal is to earn an entry-level defensive cybersecurity role by demonstrating practical judgment, careful investigation, clear reporting, and consistent improvement.
-
-> This profile contains sanitized training material only. It does not include passwords, private addresses, access tokens, or confidential information.
+Public repositories contain sanitized learning material, selected project summaries and community-safe releases. They do not contain passwords, private addresses, access tokens, confidential manufacturing details or unreleased proprietary robot files.
